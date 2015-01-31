@@ -1,5 +1,6 @@
 
 import javax.swing.*;/*libreria visual java*/
+//esta linea la modifico alexandra ardila
 public class NewClass {
 
     public NewClass() {
